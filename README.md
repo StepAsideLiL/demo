@@ -1,3 +1,5 @@
 # Demo Repository Initiate
 
-### First git
+### First git and github repo
+
+It is a experimental repository for learning.
